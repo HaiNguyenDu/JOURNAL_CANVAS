@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">journal_canvas</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="placement_tap_text">Tap on canvas to place text</string>
+    <string name="placement_tap_image">Tap on canvas to place image</string>
+
+    <string name="guide_add_text_title">Add Text</string>
+    <string name="guide_add_text_description">Tap to insert a new text object onto the canvas, then type your note.</string>
+    <string name="guide_add_image_title">Add Image</string>
+    <string name="guide_add_image_description">Pick a photo from your device and drop it onto the canvas.</string>
+    <string name="guide_undo_title">Undo</string>
+    <string name="guide_undo_description">Reverse your last action on the canvas.</string>
+    <string name="guide_redo_title">Redo</string>
+    <string name="guide_redo_description">Re-apply an action you just undid.</string>
+</resources>
